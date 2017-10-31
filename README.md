@@ -68,6 +68,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [RaspAP-webgui](https://github.com/billz/raspap-webgui) - A simple, responsive web interface to control wifi, hostapd and related services on the Raspberry Pi.
 - [HealthyPi](https://github.com/Protocentral/HealthyPi) - HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [PoisonTap](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
+- [Spindle](https://github.com/asb/spindle) - spindle is a set of scripts to aid building and working on a distribution image. I've been using this tool to generate Debian wheezy images for the Raspberry Pi, with the aim of producing reproducible, unbooted, clean setups that require no manual intervention. It works by producing a series of image files in QEMU's QED format 
 
 ## Projects
 - [Mini OONTZ](https://cdn-learn.adafruit.com/downloads/pdf/mini-oontz-3d-printed-midi-controller.pdf) - 3D printed mini MIDI controller.
